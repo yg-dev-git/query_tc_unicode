@@ -51,6 +51,35 @@ if __name__ == "__main__":
 uv run main.py
 ```
 
+## Sample Result
+
+```text
+--- Querying: 數 ---
+unicode: U+6578
+cns: 1-6D30
+ids: ⿰婁攵
+components: 部件󶇵󶃜
+stroke_order: 筆順序丨乚一一丨乚一丨乚丿一丿一丿丶
+
+--- Querying: 2A838 ---
+unicode: U+2A838
+cns: 11-7543
+ids: ⿰口乐
+components: 部件󶁶󶀫󶂺
+stroke_order: 筆順序丨乚一丿乚乚丿丶
+Meaning of 𪠸:
+“嚛”的類推簡化字。
+
+--- Querying: 23A3C ---
+unicode: U+23A3C
+cns: 10-546D
+ids: ⿰歹带
+components: 部件󶃂󶂽󶁇󶁹
+stroke_order: 筆順序一丿乚丶一丿丨丨丶乚丨乚丨
+Meaning of 𣨼:
+「殢」的類推簡化字。
+```
+
 ## Data Sources
 
 - **CNS11643**: For character properties and stroke information.
